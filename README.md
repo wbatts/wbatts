@@ -5,7 +5,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Project</b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a live SOC / Honeynet in Azure](https://github.com/wbatts/Azure-SOC)
 - <b>Network Security Policies</b>
   - [Writing a Network Security Policy for a organzation to implement to secure their network](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
